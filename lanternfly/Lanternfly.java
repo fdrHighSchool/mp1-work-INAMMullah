@@ -9,7 +9,7 @@ public class Lanternfly
         System.out.print("How many did you lanternfly did you squash over the sumer ");
         int number = input.nextInt();
         
-        if (number < 5) {
+        if (number < 8) {
             System.out.println("Try to do more,You got this!");
         } // end of if statement
         else {
